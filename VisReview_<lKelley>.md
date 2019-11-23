@@ -12,3 +12,10 @@ This plot has many dimensions, yet I do not feel lost when looking at it, good j
 I appreciate the use of a uniform color scale. It makes this visualization easier on the eyes and lessens distraction. The scales on the axes are also responsibly chosen. They cover the whole data set without including unnecessary values outside those taken by the data. Your visualization does not lie with the data, it presents an accurate picture. Overall, an impressive job with your visualization of this many-faceted data set.
 
 -Liam Kelley
+
+
+# FBB good suggestions. 
+
+the review is well throught out and well argued. It should have been uploaded to the folded HW8 but ok
+
+100%
